@@ -8,13 +8,13 @@ Technology and tools wise this project covers:
 5. Jupyter notebook
 
 Data Description:
-📌 Area_type - Description of the area
-📌 Availability - When it can be possessed or when it is ready
-📌 Location - Where it is located in Bengaluru
-📌 Size - BHK or Bedrooms
-📌 Society - To which society it belongs
-📌 Total_sqft - Size of the property in sq.ft
-📌 Bath - No. of Bathrooms
-📌 Balcony - No. of the Balcony
-📌 Price - Value of the property in lakhs (Indian Rupee - ₹)
+1. Area_type - Description of the area
+2. Availability - When it can be possessed or when it is ready
+3. Location - Where it is located in Bengaluru
+4. Size - BHK or Bedrooms
+5. Society - To which society it belongs
+6. Total_sqft - Size of the property in sq.ft
+7. Bath - No. of Bathrooms
+8. Balcony - No. of the Balcony
+9. Price - Value of the property in lakhs (Indian Rupee - ₹)
 
